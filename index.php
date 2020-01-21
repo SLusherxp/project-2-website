@@ -12,7 +12,7 @@
   <link rel="stylesheet" href="./css/style.css">
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
   <link href="https://fonts.googleapis.com/css?family=Crafty+Girls&display=swap" rel="stylesheet">
-  <title>Sinterklaasverlanglijstje</title>
+  <title>Mbo Utrecht</title>
 </head>
 
 <body>
