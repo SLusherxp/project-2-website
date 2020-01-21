@@ -1,5 +1,5 @@
 #header {
-  background-image: linear-gradient(to bottom right, red, gold);
+  background-image: linear-gradient(to bottom right, blue, red);
   /* background-color: rgb(255, 0, 0); */
   color: white;
   text-align: center;
@@ -25,19 +25,19 @@
   border-radius: 20px;
 }
 
-.crafty_girls {
-  font-family: 'Crafty Girls', cursive;
+.Aachenb {
+  font-family: 'Helvetica Nue';
 }
 
-/* .crafty_girls p {
+/* .Aachenb p {
   color: red;
 } */
 
-/* .crafty_girls p:first-child {
+/* .Aachenb p:first-child {
   color: blue;
 } */
 
-/* .crafty_girls p:last-child {
+/* .Aachenb p:last-child {
   color:gold;
 } */
 
