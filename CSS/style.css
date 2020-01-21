@@ -9,15 +9,15 @@
 
 #footer {
   /* background-color: rgb(255, 0, 0); */
-  background-image: linear-gradient(to top left, red, gold);
-  color: yellow;
+  background-image: linear-gradient(to top left, blue, red);
+  color: white;
   text-align: center;
   padding: 20px;
   border-radius: 20px;
 }
 
 #content {
-  border: 5px solid gold;
+  border: 5px solid red;
   min-height: 500px;
   margin-top: 20px;
   margin-bottom: 20px;
@@ -26,7 +26,7 @@
 }
 
 .Aachenb {
-  font-family: 'Helvetica Nue';
+  font-family: 'Aachen Bold';
 }
 
 /* .Aachenb p {
@@ -46,7 +46,7 @@
 }
 
 [width] {
-  border: 10px dashed purple;
+  border: 10px solid red;
 }
 
 .card-text {
