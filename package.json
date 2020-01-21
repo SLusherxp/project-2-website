@@ -1,0 +1,18 @@
+{
+  "name": "sinterklaasverlanglijstje",
+  "version": "1.0.0",
+  "description": "Dit is een basiscursus PHP en CRUD met MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "PHP",
+    "CRUD"
+  ],
+  "author": "jaimy dekker",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/bootstrap": "^4.3.1"
+  }
+}

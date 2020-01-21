@@ -1,0 +1,58 @@
+#header {
+  background-image: linear-gradient(to bottom right, red, gold);
+  /* background-color: rgb(255, 0, 0); */
+  color: white;
+  text-align: center;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+#footer {
+  /* background-color: rgb(255, 0, 0); */
+  background-image: linear-gradient(to top left, red, gold);
+  color: yellow;
+  text-align: center;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+#content {
+  border: 5px solid gold;
+  min-height: 500px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px 20px 20px 20px;
+  border-radius: 20px;
+}
+
+.crafty_girls {
+  font-family: 'Crafty Girls', cursive;
+}
+
+/* .crafty_girls p {
+  color: red;
+} */
+
+/* .crafty_girls p:first-child {
+  color: blue;
+} */
+
+/* .crafty_girls p:last-child {
+  color:gold;
+} */
+
+.crafty_girls p:nth-child(2):hover {
+  color: orange;
+}
+
+[width] {
+  border: 10px dashed purple;
+}
+
+.card-text {
+  min-height: 5em;
+}
+
+.container .row {
+  margin-top: 2em;
+}
